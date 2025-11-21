@@ -1,0 +1,117 @@
+{
+
+  "name": "badol-bot",
+
+  "version": "2.0.0",
+
+  "description": "A fully featured Telegram Bot built by BADOL-BOT — powered by Telegram and Badol APIs.",
+
+  "main": "index.js",
+
+  "directories": {
+
+    "commands": "commands",
+
+    "tools": "tools"
+
+  },
+
+  "scripts": {
+
+    "start": "node index.js",
+
+    "dev": "nodemon index.js",
+
+    "start:pm2": "pm2 start ./index.js --name $(basename $(pwd))",
+
+    "test": "echo \"No test specified\" && exit 1"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/mohammadbadol.git"
+
+  },
+
+  "keywords": [
+
+    "telegram",
+
+    "bot",
+
+    "telegraf",
+
+    "nayan-api",
+
+    "media-downloader",
+
+    "badol-vai",
+
+    "tg-bot"
+
+  ],
+
+  "author": "MOHAMMAD-BADOL<https://github.com/mohammadbadol>",
+
+  "license": "MIT",
+
+  "bugs": {
+
+    "url": "https://github.com/mohammadbadol/issues"
+
+  },
+
+  "homepage": "https://github.com/mohammadbadol#readme",
+
+  "dependencies": {
+
+    "@discordjs/collection": "^2.1.1",
+
+    "axios": "^1.7.2",
+
+    "chalk": "^4.1.2",
+
+    "cheerio": "^1.0.0",
+
+    "cfonts": "^3.3.0",
+
+    "express": "^4.19.2",
+
+    "figlet": "^1.7.0",
+
+    "file-type": "^16.5.3",
+
+    "form-data": "^4.0.0",
+
+    "js-beautify": "^1.15.1",
+
+    "mime-types": "^2.1.35",
+
+    "moment-timezone": "^0.5.45",
+
+    "nayan-api-servers": "^2.4.8",
+
+    "nayan-media-downloaders": "^0.1.6",
+
+    "node-fetch": "^2.6.1",
+
+    "node-telegram-bot-api": "^0.52.0",
+
+    "nodemon": "^3.0.1",
+
+    "open-graph": "^0.2.6",
+
+    "request": "^2.88.2",
+
+    "simpl.db": "^2.13.0",
+
+    "telegraf": "^4.16.3",
+
+    "youtube-search-api": "^1.2.2"
+
+  }
+
+}
