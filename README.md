@@ -1,7 +1,7 @@
-# ✨ BADOL-BOT ✨
+ # ✨ BADOL-BOT ✨
 
-![BADOL-BOT Banner](https://i.ibb.co/7yV5Y3K/badol-bot-banner.png)  
-![BADOL-BOT](https://img.shields.io/badge/BADOL--BOT-v1.0.0-blue?style=for-the-badge)
+![BADOL-BOT Banner](https://ibb.co/s9LmsMTN) 
+![BADOL-BOT](https://img.shields.io/badge/BADOL--BOT-v1.0.0-blue?style=for-the-biadge)
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-green?style=for-the-badge)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
