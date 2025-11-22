@@ -1,6 +1,6 @@
 module.exports = {
 
-  BOT_TOKEN: "8034233581:AAHd7rJae0JamjhBtGqBd0u60aMV-t0YopM",
+  BOT_TOKEN: "8034233581:AAHd7rJae0JamjhBtGqhjBd0u60aMV-t0YopM",
 
   BOT_SETTINGS: {
 
